@@ -1,4 +1,6 @@
 MOVIES.HD
+![banner](https://github.com/user-attachments/assets/32e98325-e6bd-4af2-8414-766756422331)
+
 
 Responsive Design: Adapts to different screen sizes for an optimal viewing experience on all devices.
 
@@ -22,7 +24,13 @@ Don’t forget about structures and paths when will using
 
 
 
-![banner](https://github.com/user-attachments/assets/32e98325-e6bd-4af2-8414-766756422331)
+
+Don’t forget about structures and paths when will using
+
+
+
+
+
 ![MHD-Full-HD-Movies](https://github.com/user-attachments/assets/8e64fb8c-d0ee-4a12-a744-f2bfc07e36cf)
 
 
