@@ -17,9 +17,10 @@ CSS: Adds styling and layout enhancements for a polished look.
 
 JavaScript: Handles dynamic content and interactive features.
 
+![Uploading Z0FBQUFBQm0yc05tb1NnM0xhR0xGLWIxRUE2XzhzMmZDM1MxVDhQZllzR0JER0IxT0I3OFYya2tCbWttb1V4R3hhZ3JndGlPME1Gdi12ekJWUVFlUk5YenhDRXBTZ3Q5bkJiWkc5ZWk4d3dYZ1V0U0VFR3NIS0Ftck9QU2JCNVJ5RHdTTXA2NWZtSUVnQnI0anlwY3pUSEVUMlg5WmM3eGJBPT0=.jpeg…]()
 
 
 Don’t forget about structures and paths when will using
 
 
-![MHD-Full-HD-Movies](https://github.com/user-attachments/assets/4e0a6aab-53da-49b6-a083-0aff4df251eb)
+
